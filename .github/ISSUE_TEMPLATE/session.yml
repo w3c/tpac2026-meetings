@@ -47,7 +47,7 @@ body:
     id: slots
     attributes:
       label: Acceptable slots
-      description: Select **acceptable** slots. All times are Dublin, Ireland. To express flexibility, select more than the total number you entered above. Do not select fewer than the total number you entered above. Use the "Manual instructions for meeting planners" field for detailed requests such as preferred days.
+      description: Select **acceptable** slots. All times are Dublin, Ireland. To express flexibility, select more than the total number you entered above. Do not select fewer than the total number you entered above. Use the "Other instructions for meeting planners" field for detailed requests such as preferred days.
       options:
         - label: Monday, 09:00 - 10:30
         - label: Monday, 11:00 - 12:30
