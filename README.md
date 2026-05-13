@@ -17,11 +17,12 @@ For TPAC 2026, groups can choose from among these meeting times:
 
 
 In the [form to request a meeting](https://github.com/w3c/tpac2026-meetings/issues/new?assignees=&labels=session&projects=&template=session.yml)
-please identify (1) the total number of slots you would like for your
-group meetings, and (2) which of above the meeting times are **acceptable** for your
-meetings.
+please identify both:
 
-To express **preferences**:
+* the total number of slots you would like for your group meetings, and
+* which of above the meeting times are **acceptable** for your meetings.
+
+To express **preferences** (above and beyond what is acceptable): 
 
 * We consider it an expression of preference when the number of requested slots equals the number of selected acceptable slots.
 * For more detailed preferences, please use the "Other instructions for meeting planners" field.
