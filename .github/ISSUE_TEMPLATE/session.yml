@@ -49,22 +49,21 @@ body:
       label: Acceptable slots
       description: Select **acceptable** slots. To express flexibility, select more than the total number you entered above. Do not select fewer than the total number you entered above. Use the "Manual instructions for meeting planners" field for detailed requests such as preferred days.
       options:
-        - label: Monday, 9:00 - 10:30
+        - label: Monday, 09:00 - 10:30
         - label: Monday, 11:00 - 12:30
-        - label: Monday, 13:30 - 15:00
+        - label: Monday, 13:45 - 15:00
         - label: Monday, 15:30 - 16:45
-        - label: Tuesday, 9:45 - 11:00
-        - label: Tuesday, 11:30 - 13:00
-        - label: Tuesday, 14:00 - 16:00
-        - label: Tuesday, 16:30 - 18:00
-        - label: Thursday, 9:00 - 10:30
+        - label: Tuesday, 08:30 - 10:00
+        - label: Tuesday, 10:30 - 12:00
+        - label: Tuesday, 13:15 - 15:00
+        - label: Thursday, 09:00 - 10:30
         - label: Thursday, 11:00 - 12:30
-        - label: Thursday, 13:30 - 15:00
-        - label: Thursday, 15:30 - 16:45
-        - label: Friday, 9:00 - 10:30
-        - label: Friday, 11:00 - 12:30
-        - label: Friday, 14:00 - 16:00
-        - label: Friday, 16:30 - 18:00
+        - label: Thursday, 13:45 - 15:00
+        - label: Thursday, 15:30 - 17:00
+        - label: Friday, 09:45 - 11:00
+        - label: Friday, 11:30 - 12:45
+        - label: Friday, 14:00 - 15:30
+        - label: Friday, 16:00 - 17:30
 
   - type: textarea
     id: comments
