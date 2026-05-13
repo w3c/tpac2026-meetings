@@ -9,12 +9,13 @@ This repo is for collecting requests to schedule group meetings during [TPAC 202
 
 Note: We will use a different repo for breakout session proposals during TPAC 2026.
 
-## Identifying acceptable meeting times
+## Identifying acceptable and preferred meeting timnes
 
 For TPAC 2026, groups can choose from among these meeting times:
 
 * Coming soon!
 
+### Acceptable meeting times
 
 In the [form to request a meeting](https://github.com/w3c/tpac2026-meetings/issues/new?assignees=&labels=session&projects=&template=session.yml)
 please identify both:
@@ -22,7 +23,9 @@ please identify both:
 * the total number of slots you would like for your group meetings, and
 * which of above the meeting times are **acceptable** for your meetings.
 
-To express **preferences** (above and beyond what is acceptable): 
+### Preferred meeting times
+
+To express **preferences** (above and beyond acceptable times): 
 
 * We consider it an expression of preference when the number of requested slots equals the number of selected acceptable slots.
 * For more detailed preferences, please use the "Other instructions for meeting planners" field.
@@ -31,6 +34,8 @@ More detailed preferences can include (but are not limited to):
 
 * Preferred slots. For example: "We prefer Monday and Tuesday all day, but can live with Tuesday and Thursday." Or "We would like to meet in the first two slots on all four days."
 * Groups to avoid conflict with
-* Groups to meet jointly with.
+* Groups to meet jointly with
+
+## Notes on tooling
 
 The meeting planners will be adding and editing sessions in GitHub so that our scheduling tools can consume session descriptions and preferences. For example, we will create distinct issues to represent joint meetings.
