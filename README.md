@@ -11,7 +11,7 @@ Note: We will use a different repo for breakout session proposals during TPAC 20
 
 ## Identifying acceptable and preferred meeting timnes
 
-For TPAC 2026, groups can choose from among these meeting times:
+For TPAC 2026, groups can choose from among these meeting times (all times are Dublin, Ireland):
 
 * Coming soon!
 
