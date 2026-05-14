@@ -2,14 +2,18 @@
 
 This repo is for collecting requests to schedule group meetings during [TPAC 2026](https://www.w3.org/2026/10/TPAC/). We invite W3C group chairs and staff to use this repo. If you have any questions, please write to w3t-tpregister@w3.org.
 
-* [List of meeting requests](https://github.com/w3c/tpac2026-meetings/issues)
-* Pick one of these templates for your group:
-   * [Form to request a meeting](https://github.com/w3c/tpac2026-meetings/issues/new?assignees=&labels=session&projects=&template=session.yml)
-   * [Form to indicate your group **does not plan to meet**](https://github.com/w3c/tpac2026-meetings/issues/new?assignees=&labels=not-meeting&projects=&template=wont-meet.yml)
-
 Note: We will use a different repo for breakout session proposals during TPAC 2026.
 
-## Identifying acceptable and preferred meeting timnes
+## Does your group plan to meet during TPAC?
+
+Pick one of the following forms:
+
+* [Our group requests a meeting](https://github.com/w3c/tpac2026-meetings/issues/new?assignees=&labels=session&projects=&template=session.yml)
+* [Our group **does not plan to meet**](https://github.com/w3c/tpac2026-meetings/issues/new?assignees=&labels=not-meeting&projects=&template=wont-meet.yml)
+
+See the [current list of meeting requests](https://github.com/w3c/tpac2026-meetings/issues).
+
+## Identifying acceptable and preferred meeting times
 
 For TPAC 2026, groups can choose from among these meeting times (**all times are Dublin, Ireland**):
 
